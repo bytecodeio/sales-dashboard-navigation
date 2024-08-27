@@ -2,6 +2,9 @@ Extension Framework app that passes all dashboard values to external Bootstrap-R
 
 This EF also has a separate navigation dropdown for external links and the ability to Open Link in New Tab on right-click.
 
+<img width="441" alt="Screenshot 2024-08-27 at 11 51 51 AM" src="https://github.com/user-attachments/assets/0c9863bf-458b-41d1-9e25-a514ae8a368c">
+
+
 Run yarn dev to run the app locally. Then yarn run build to build the app.
 
 
